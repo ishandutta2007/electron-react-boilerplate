@@ -11,8 +11,12 @@
   },
   "scripts": {
     "electron-rebuild": "node -r babel-register ../internals/scripts/ElectronRebuild.js",
-    "postinstall": "npm run electron-rebuild"
+    "postinstall": "npm rebuild"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "react-firebaseui": "^3.0.4",
+    "firebase": "5.1.0",
+    "grpc": "1.11.3"
+  }
 }
