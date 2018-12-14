@@ -255,3 +255,10 @@ MIT © [C. T. Lin](https://github.com/chentsulin)
 [appveyor-url]: https://ci.appveyor.com/project/chentsulin/electron-react-boilerplate/branch/master
 [david_img]: https://img.shields.io/david/chentsulin/electron-react-boilerplate.svg
 [david_site]: https://david-dm.org/chentsulin/electron-react-boilerplate
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
